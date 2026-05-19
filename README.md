@@ -58,3 +58,13 @@ The core **XGBoost** classifier achieved a powerful **83.08% Global Accuracy** s
 ## 📊 Feature Importance: What the Model Learned
 
 The model successfully bypassed abstract assumptions and mapped real-world biophysical constraints. The **Top 5 features** driving the tree layout distribution are:
+
+🥇 Feature 13 (Wilderness_Area_4 / Cache la Poudre) -> 0.0964
+
+🥈 Feature 00 (Elevation)                          -> 0.0773
+
+🥉 Feature 52 (Soil_Type_39: Leighcan-Moran)        -> 0.0553
+
+🏅 Feature 51 (Soil_Type_38: Leighcan-Catamount)    -> 0.0548
+
+🏅 Feature 53 (Soil_Type_40: Moran-Cryaquolls)      -> 0.0550
